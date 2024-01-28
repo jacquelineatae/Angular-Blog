@@ -2,11 +2,17 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #111111;
   color: aliceblue;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 a {
   text-decoration: none;
+}
+
+
+body {
+  background-image: url('https://i.pinimg.com/564x/d8/b2/f7/d8b2f7b0117537f126e8e5c96ca78bf9.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
